@@ -1,0 +1,9 @@
+.container {
+  border: 5px outset red;
+  display: flex;
+  width: full;
+  height: screen;
+  background-attachment: fixed;
+  background-color: lightyellow;
+  background-size: cover;
+}
